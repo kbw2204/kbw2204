@@ -1,6 +1,6 @@
 ### ✨ Welcome To My Git Repository ✨
 
-<img src="https://github.com/kbw2204/gifEmoticon/blob/master/gif/열공.gif?raw=true" width="25%">
+<img src="https://github.com/kbw2204/gifEmoticon/blob/master/gif/열공.gif?raw=true" width="15%">
 
 🐶 안녕하세요! 찰떡같은 앱을 개발하고 싶은 iOS 앱 개발자 강병우 라고 합니다. 
 

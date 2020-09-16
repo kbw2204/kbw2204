@@ -6,7 +6,7 @@
 
 💬 **개발자 아라찌** 라는 닉네임으로 활동을 하고 있고요..
 
-📔 지금까지 저의 개발 흔적을 꾸준하게 이 Git Repository에 남기고 있습니다.
+📔 지금까지 저의 개발 흔적을 꾸준하게 이 Git Repository에 남기고 있습니다.(private은 엣헴..😅)
 
 🌱 최근엔 UIkit으로 개발한 것을 RxSwift, ReactorKit, MVVM, SnapKit, Then 으로 리팩토링 하며 공부를 하고 있습니다. 
 

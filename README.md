@@ -12,17 +12,6 @@
 
 ⚡ 기본적으로 진행하는 프로젝트 외에도 알게된 내용들을 정리해서 블로그 포스팅을 하고 있고 있으니 한번쯤 들려주시면 감사하겠습니당 ☺️
 
----
-
-🐶 Hi! I'm Arachi,  iOS developer.
-
-📔 I've been keeping my development projects so far in My Git Repository.
-
-🌱 I’m currently learning iOS, Swift, RxSwift, ReactorKit, MVVM, SnapKit, Then but basically UIKit.
-
-⚡ In addition to the basic projects, I’m posting blogs by organizing the things I learned.
-
-
 #### Blog
 
 - https://apple-apeach.tistory.com

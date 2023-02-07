@@ -1,3 +1,4 @@
+<!--
 ### ✨ Welcome To My Git Repository ✨
 
 <img src="https://github.com/kbw2204/gifEmoticon/blob/master/gif/열공.gif?raw=true" width="15%">
@@ -12,10 +13,6 @@
 
 ⚡ 기본적으로 진행하는 프로젝트 외에도 알게된 내용들을 정리해서 블로그 포스팅을 하고 있고 있으니 한번쯤 들려주시면 감사하겠습니당 ☺️
 
-#### Blog
-
-- https://apple-apeach.tistory.com
-<!--
 **kbw2204/kbw2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
